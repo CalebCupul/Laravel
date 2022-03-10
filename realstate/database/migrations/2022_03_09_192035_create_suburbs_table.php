@@ -19,7 +19,6 @@ class CreateSuburbsTable extends Migration
             $table->string('state');
             $table->string('city');
             $table->string('suburb');
-            $table->timestamps();
         });
     }
 

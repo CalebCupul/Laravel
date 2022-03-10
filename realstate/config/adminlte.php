@@ -239,8 +239,8 @@ return [
         // Sidebar items:
         // ['header' => 'account_settings'],
         [
-            'text' => 'Colonias',
-            'url'  => 'admin/settings',
+            'text' => 'Suburbs',
+            'url'  => 'suburb',
             'icon' => 'fas fa-fw fa-sign',
         ],
         
